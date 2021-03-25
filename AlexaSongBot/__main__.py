@@ -35,7 +35,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="✨ Grupo", url="https://t.me/Radiozin"
+                        text="✨ Criador", url="https://t.me/TioDexty"
                     )
                 ]
             ]
